@@ -1,2 +1,5 @@
 functions-framework
 requests==2.27.1
+google-cloud-storage
+exiftool
+uvicorn[standard]
